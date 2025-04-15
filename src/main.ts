@@ -1,5 +1,5 @@
 // import './style.css'
-import { age, username, toggle, empty, callback } from "./basic/1";
+import { age, username, toggle, empty, callback } from "./basic/1.ts";
 console.log("age:", age);
 console.log("Username:", username);
 console.log(toggle);
