@@ -4,3 +4,23 @@ console.log("Username:", username);
 console.log(toggle);
 console.log(empty);
 console.log(callback(10));
+
+import { person } from "./basic/2.ts";
+console.log(person);
+
+import { variableType } from "./basic/3.ts";
+console.log(variableType);
+import { status } from "./basic/3.ts";
+console.log(status);
+
+import { showMessage } from "./basic/4.ts";
+console.log(showMessage);
+import { calc } from "./basic/4.ts";
+console.log(calc);
+import { customError } from "./basic/4.ts";
+console.log(customError);
+
+import { isWeekend } from "./basic/5.ts";
+console.log(isWeekend);
+import { mango, poly } from "./basic/6.ts";
+console.log(mango, poly);
