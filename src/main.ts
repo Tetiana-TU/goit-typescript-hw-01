@@ -24,3 +24,8 @@ import { isWeekend } from "./basic/5.ts";
 console.log(isWeekend);
 import { mango, poly } from "./basic/6.ts";
 console.log(mango, poly);
+import { page1 } from "./basic/7.ts";
+console.log(page1);
+
+import { fetchData } from "./generics/1.ts";
+console.log(fetchData);
