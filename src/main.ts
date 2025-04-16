@@ -29,3 +29,8 @@ console.log(page1);
 
 import { fetchData } from "./generics/1.ts";
 console.log(fetchData);
+import { compare } from "./generics/2.ts";
+console.log(compare);
+
+import { merge } from "./generics/3.ts";
+console.log(merge);
